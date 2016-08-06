@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>我的博客</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2016-08-06T01:43:23.096Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>yokesyo</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>霸气的诗歌</title>
+    <link href="http://yoursite.com/2016/08/04/%E9%9C%B8%E6%B0%94%E7%9A%84%E8%AF%97%E6%AD%8C/"/>
+    <id>http://yoursite.com/2016/08/04/霸气的诗歌/</id>
+    <published>2016-08-04T14:44:21.000Z</published>
+    <updated>2016-08-06T01:43:23.096Z</updated>
+    
+    <content type="html"><![CDATA[<p>朝代：秦末汉初  </p>
+<p>作者：项羽</p>
+<div align="center"><br>垓下歌<br>力拔山兮气盖世<br>时不利兮骓不逝<br>骓不逝兮可奈何<br>虞兮虞兮奈若何<br></div>
+
+<p>作者：刘邦</p>
+<div align="center"><br>大风歌<br>大风起兮云飞扬<br>威加海内兮归故乡<br>安得猛士兮守四方<br></div><br><br><br><div align="center"><br>鸿鹄歌<br>鸿鹄高飞<br>一举千里<br>羽翮已就<br>横绝四海<br>横绝四海<br>当可奈何<br>虽有矰缴<br>尚安所施<br></div>
+
+<p>朝代：汉末<br>作者：黄巾军</p>
+<div align="center"><br>苍天已死<br>黄天当立<br>岁在甲子<br>岁在甲子<br></div>
+
+<p>作者：曹操</p>
+<div align="center"><br>蒿里行<br>关东有义士，兴兵讨群凶。<br>初期会盟津，乃心在咸阳。<br>军合力不齐，踌躇而雁行。<br>势利使人争，嗣还自相戕。<br>淮南弟称号，刻玺於北方。<br>铠甲生虮虱，万姓以死亡。<br>白骨露於野，千里无鸡鸣。<br>生民百遗一，念之断人肠。<br></div>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;朝代：秦末汉初  &lt;/p&gt;
+&lt;p&gt;作者：项羽&lt;/p&gt;
+&lt;div align=&quot;center&quot;&gt;&lt;br&gt;垓下歌&lt;br&gt;力拔山兮气盖世&lt;br&gt;时不利兮骓不逝&lt;br&gt;骓不逝兮可奈何&lt;br&gt;虞兮虞兮奈若何&lt;br&gt;&lt;/div&gt;
+
+&lt;p&gt;作者：刘邦&lt;/p&gt;
+&lt;div align=&quot;ce
+    
+    </summary>
+    
+      <category term="technology" scheme="http://yoursite.com/categories/technology/"/>
+    
+    
+      <category term="余慧翔" scheme="http://yoursite.com/tags/%E4%BD%99%E6%85%A7%E7%BF%94/"/>
+    
+      <category term="诗词" scheme="http://yoursite.com/tags/%E8%AF%97%E8%AF%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2016/07/31/hello-world/"/>
+    <id>http://yoursite.com/2016/07/31/hello-world/</id>
+    <published>2016-07-31T14:05:52.334Z</published>
+    <updated>2016-07-31T14:05:52.334Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
